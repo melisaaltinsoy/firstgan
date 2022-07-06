@@ -1,0 +1,2 @@
+# firstgan
+First GAN project
